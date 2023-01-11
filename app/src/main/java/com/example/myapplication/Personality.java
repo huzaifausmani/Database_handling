@@ -16,6 +16,6 @@ public class Personality {
         this.psychopath = psychopath;
         this.sociopath = sociopath;
     }
-    
+
 
 }
